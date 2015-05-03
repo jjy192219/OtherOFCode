@@ -1,0 +1,3 @@
+ofxNetwork
+ofxBrainWave
+ofxJSON
